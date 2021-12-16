@@ -50,6 +50,7 @@ Data impact: Image data linked with clinically relevant attributes in a public d
 
 ## To run the app follow the below commands:
 1 Please install all the required libraries
+
 2 streamlit run app.py in cmd prompt
 
 
